@@ -1,9 +1,11 @@
 # intro
 @trazy
 
-## interest things!
+i`m web + game server developer!
 
-### langs
+# how about this?
+
+## langs
 - 😍 js ( + es-next + nodejs )
 - 😍 typescript
 - 😍 java
@@ -13,10 +15,13 @@
 - 🤩 scala
 - 🤔 php
 
-### others...
+## others...
 - 😍 react ( + redux )
 - 😨 vuejs
 - 😍 spring framework
 - 😍 jpa
 - 😍 docker
 - 😍 k8s
+- 😍 git
+- 🖕 svn
+
