@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @trazy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# intro
+@trazy
 
-<!---
-trazy/trazy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## interest things!
+
+### langs
+- 😍 js ( + es-next + nodejs )
+- 😍 typescript
+- 😍 java
+- 😍 c# ( .net core )
+- 😍 rust
+- 😐 python
+- 🤩 scala
+- 🤔 php
+
+### others...
+- 😍 react ( + redux )
+- 😨 vuejs
+- 😍 spring framework
+- 😍 jpa
+- 😍 docker
+- 😍 k8s
