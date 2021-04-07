@@ -1,7 +1,7 @@
 # intro
 @trazy
 
-i`m web + game server developer!
+i`m ( web + game server ) developer!
 
 # how about this?
 
@@ -24,4 +24,5 @@ i`m web + game server developer!
 - 😍 k8s
 - 😍 git
 - 🖕 svn
-
+- 😍 functional programming
+- 😍 oop
